@@ -1,4 +1,4 @@
-# Ovesio - Ecommerce Intelligence for OpenCart 4.x
+# Ovesio - Ecommerce Intelligence Extension for OpenCart 4.x
 
 **Ovesio - Ecommerce Intelligence** empowers your OpenCart store with advanced AI-driven insights, stock management forecasting, and strategic consulting. This module generates secure data feeds for your products and orders, allowing the Ovesio platform to analyze your business performance in real-time.
 
